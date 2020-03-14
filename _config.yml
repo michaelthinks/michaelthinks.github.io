@@ -26,7 +26,7 @@ github_username:  michaelthinks
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: b2a3e8/jekyll-theme-console
 gems:
   - jekyll-feed
 exclude:
