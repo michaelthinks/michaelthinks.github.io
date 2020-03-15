@@ -39,4 +39,4 @@ header_pages:
   - about.md
   - contact.md
 
-listen_for_clients_preferred_style: true
+listen_for_clients_preferred_style: false
