@@ -40,3 +40,5 @@ header_pages:
   - contact.md
 
 listen_for_clients_preferred_style: false
+
+footer: '<a href="https://twitter.com/michaelgotobed">twitter</a> <a href="https://octodon.social/@whowasmichael">mastodon</a> <a href="https://github.com/michaelthinks">github</a>'
