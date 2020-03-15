@@ -32,3 +32,11 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Theme settings for terminal
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+listen_for_clients_preferred_style: true
